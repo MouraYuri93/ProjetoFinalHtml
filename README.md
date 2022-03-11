@@ -1,5 +1,5 @@
 # Resumo do projeto
-Projeto do Curso de Desenvolvimento WEB - Udemy.
+Criação de uma página da faculdade UNES.
 
 ## 🔨 Funcionalidades do projeto
 Demonstrativo do site de uma Faculdade fictícia chamada UNES.
